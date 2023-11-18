@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1700319462 source:d:\info\poo_5\mostenire\geaca.cpp
+	"Geaca.hpp"
+
+1700319452 source:d:\info\poo_5\mostenire\main.cpp
+	"Haina.hpp"
+	"Geaca.hpp"
+
+1700319436 source:d:\info\poo_5\mostenire\haina.cpp
+	"Haina.hpp"
+
+1700319436 d:\info\poo_5\mostenire\haina.hpp
+	<iostream>
+	<cstring>
+
+1700319436 d:\info\poo_5\mostenire\geaca.hpp
+	"Haina.hpp"
+
